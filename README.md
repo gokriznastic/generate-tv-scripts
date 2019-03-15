@@ -1,0 +1,2 @@
+# generate-tv-scripts
+Project 3 of Udacity's DLND: In this project, we learn how to generate your own 'Seinfeld' TV scripts using RNNs. The Neural Network you'll build will generate a new, "fake" TV script.
