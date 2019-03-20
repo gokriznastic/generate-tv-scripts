@@ -60,4 +60,4 @@ george:(animated to the door) oh.
 
 elaine:(pause) you know what, i have to go to a funeral?
 
-george: i can't believe this.```
+george: i can't believe this.
